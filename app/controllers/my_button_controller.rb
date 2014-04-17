@@ -6,7 +6,7 @@ class MyButtonController < UIViewController
 
   def viewDidLoad
     super
-    self.backgroundColor = UIColor.blueColor
+    # self.backgroundColor = UIColor.blueColor
   end
 
 end
